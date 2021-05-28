@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri May 28 18:47:11 BRT 2021","Fri May 28 18:47:17 BRT 2021","6340","","Criando uma nova opção para coleção de filmes","","","","Cadastrar um novo filme",""
-"passed","Fri May 28 18:47:20 BRT 2021","Fri May 28 18:47:22 BRT 2021","2061","","Autenticação na plataforma de conteudo","","","","Efetuar Login com um usuário  e senha válido!",""
-"passed","Fri May 28 18:47:17 BRT 2021","Fri May 28 18:47:18 BRT 2021","593","","Criando uma nova opção para coleção de filmes","","","","Logim com API",""
