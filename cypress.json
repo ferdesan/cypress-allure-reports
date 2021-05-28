@@ -1,0 +1,12 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "experimentalStudio": true,
+    "baseUrl": "https://purescript-react-realworld.netlify.app",
+    "env": {
+        "apiUrl" : "https://conduit.productionready.io/api",
+        "user" : {
+            "email" : "protetor@mail.com",
+            "pw" : "protetor"
+        }
+    }
+}
